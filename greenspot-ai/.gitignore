@@ -64,3 +64,9 @@ server.log
 *~
 .DS_Store
 Thumbs.db
+
+# Documentation & Internal Guides
+ENTERPRISE_ARCHITECTURE_AND_RUNBOOK.md
+GREENSPOT_AI_MASTER_DOCUMENTATION.md
+PRODUCTION_AWS_DEMO_GUIDE.md
+dashboard_cream.html

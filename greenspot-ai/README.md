@@ -2,6 +2,8 @@
 
 **Tagline:** Find the cheapest, cleanest place on Earth to run your code.
 
+> 📚 **Complete Documentation Package:** For enterprise architecture, full developer runbook, multi-tenant spot allocation strategy, AWS production setup, and judge demonstration scripts, see **[GREENSPOT_AI_MASTER_DOCUMENTATION.md](file:///home/chirag/Desktop/hackathon/greenspot-ai/GREENSPOT_AI_MASTER_DOCUMENTATION.md)**.
+
 ## 💡 Inspiration
 Every day, engineering teams spin up massive GPU clusters for AI training and batch ETL. Out of habit, they default to `us-east-1` or whatever region they always use. This means paying full on-demand pricing while unknowingly burning coal-powered electricity—all while a 70% cheaper, near-zero-carbon spot instance is sitting idle somewhere else in the world. 
 
