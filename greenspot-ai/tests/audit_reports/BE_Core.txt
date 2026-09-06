@@ -1,0 +1,1 @@
+PASS: Core FinOps logic tests pass
